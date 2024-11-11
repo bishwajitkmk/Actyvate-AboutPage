@@ -1,0 +1,18 @@
+.px-8 {
+    padding-left: 2rem; 
+    padding-right: 2rem; 
+}
+
+.py-4 {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+}
+
+.rounded-md {
+  border-radius: 0.375rem;
+}
+
+.border-color {
+   --tw-border-opacity: 1;
+  border-color: rgb(21 49 88 / var(--tw-border-opacity))
+}

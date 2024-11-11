@@ -1,0 +1,101 @@
+#main-text {
+  margin-left: 156px;
+  margin-top: -100px;
+  
+}
+
+#main-text-h1 {
+  width: 886px;
+  font-size: 50px;
+  margin-top: -80px;
+}
+
+#main-text-h2 {
+  margin-top: 4px;
+  font-size: 32px;
+  font-weight: normal;
+  color: #153158;
+  line-height: 1.2;
+  width: 886px;
+  opacity: 60%;
+}
+
+#image-section {
+  margin-top: 130px;
+  margin-left: -150px;
+}
+
+#img {
+  max-width: 1100px;
+  height: auto;
+  object-fit: contain;
+}
+
+#stat-section {
+  margin-top: 1100px;
+  margin-left: 20rem;
+  gap: 3.5rem;
+}
+
+#block1 {
+  width: 423px;
+  height: 205px;
+  border-radius: 20px;
+}
+
+#block1-h1 {
+  font-size: 64px;
+  line-height: 80px;
+  color: #153158;
+}
+
+#block1-h2 {
+  font-size: 32px;
+  color: #153158;
+  opacity: 0.8;
+}
+
+#block2 {
+  width: 423px;
+  height: 205px;
+  border-radius: 20px;
+}
+
+#block2-h1 {
+  font-size: 64px;
+  line-height: 80px;
+  color: #FF5D00;
+}
+
+#block2-h2 {
+  font-size: 32px;
+  color: #153158;
+  opacity: 0.8;
+}
+
+#block3 {
+  width: 423px;
+  height: 205px;
+  border-radius: 20px;
+}
+
+#block3-h1 {
+  font-size: 64px;
+  line-height: 80px;
+  color: #00A2FF;
+}
+
+#block3-h2 {
+  font-size: 32px;
+  color: #153158;
+  opacity: 0.8;
+}
+
+
+#title-h1 {
+  font: Plus Jakarta Sans;
+  font-size: 50px;
+  color: #153158;
+}
+
+
